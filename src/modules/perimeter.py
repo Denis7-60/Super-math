@@ -4,5 +4,5 @@ def perimeter_func(arr):
         summ += storona
     return summ    
 
-arr = list(map(int, input().split()))  # "1 2 3" → [1, 2, 3]
-perimeter_func(arr)
+#arr = list(map(int, input().split()))  # "1 2 3" → [1, 2, 3]
+#perimeter_func(arr)
