@@ -1,7 +1,8 @@
-def perimeter_func(a, b, c):
-    return a + b + c
+def perimeter_func(arr):
+    summ = 0
+    for storona in arr:
+        summ += storona
+    return summ    
 
-a = int(input())
-b = int(input())
-c = int(input())
-perimeter_func(a, b, c)
+arr = list(map(int, input().split()))  # "1 2 3" → [1, 2, 3]
+perimeter_func(arr)
