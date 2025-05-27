@@ -1,3 +1,5 @@
 **/__pycache__/
 src/modules/tests/*.txt
 !src/modules/tests/test_3.txt
+src/homework_7/*.docx
+!src/homework_7/test_ignor_2.xlsx

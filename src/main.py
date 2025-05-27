@@ -1,6 +1,7 @@
 import modules.perimeter as primetr
 import modules.factorial as fact
 import modules.tests.test_all as ts
+import Homework_4.file_test as fits
 
 f1 = fact.factorial(5)
 print(f1)
@@ -23,3 +24,5 @@ print(ts)
 print("End programm")
 
 print(123)
+
+fits
