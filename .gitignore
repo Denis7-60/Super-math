@@ -1,0 +1,3 @@
+**/__pycache__/
+src/modules/tests/*.txt
+!src/modules/tests/test_3.txt
