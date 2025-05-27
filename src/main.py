@@ -21,3 +21,5 @@ print("Hello World")
 print(ts)
 
 print("End programm")
+
+print(123)
